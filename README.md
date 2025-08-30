@@ -58,7 +58,7 @@ The dashboard consists of **four pages**:
 - Coffee drinking location and timing  
 - Preferred coffee types  
 
-![Coffee Habits page](./screenshots<iframe title="coffee_survey_dashboard" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=ff336d7f-d025-408e-90fe-f77543d2273c&autoAuth=true&ctid=53b1fd81-72bf-49e1-aa03-f3d4e4e40034&actionBarEnabled=true" frameborder="0" allowFullScreen="true"></iframe>.png)  
+![Coffee Habits page](./screenshots/coffee_habits.png)  
 
 ---
 
