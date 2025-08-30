@@ -6,7 +6,15 @@ The dashboard was built in **Power BI** as part of a portfolio project and a pra
 - data cleaning and transformation,  
 - relational modeling,  
 - creating DAX measures,  
-- building an interactive report.  
+- building an interactive report.
+
+---
+
+## 🎥 Demo
+
+Here’s a quick preview of the Coffee Consumption Dashboard in action:
+
+![Dashboard Demo](screenshots/sip_of_data.gif)
 
 ---
 
