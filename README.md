@@ -17,9 +17,9 @@ Here’s a quick preview of the Coffee Consumption Dashboard in action:
 ![Dashboard Demo](screenshots/sip_of_data.gif)
 
 
-Here’s a quick video walkthrough of the Coffee Consumption Dashboard:
 
-[![Coffee Dashboard Demo](screenshots/cover_youtube.png)](https://www.youtube.com/watch?v=ul_83Z_ihFw)
+
+Here’s a quick video walkthrough of the Coffee Consumption Dashboard:
 
 <a href="https://www.youtube.com/watch?v=ul_83Z_ihFw" target="_blank">
   <img src="screenshots/cover_youtube.png" alt="Coffee Dashboard Demo" width="400"/>
